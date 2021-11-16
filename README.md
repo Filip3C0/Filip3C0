@@ -1,10 +1,10 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=filip3c0&color=006bed)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **DESENVOLVIMENTO FULL STACK** no <a href="CODE CLUB">CODE CLUB</a>.
+- 🎓 &nbsp; Estudando **DESENVOLVIMENTO FULL STACK** no <a href="https://codeclub.rodolfomori.com/">CODE CLUB</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **HTML,CSS,JAVASCRIPT**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>

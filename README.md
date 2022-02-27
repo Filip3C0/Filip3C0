@@ -4,7 +4,7 @@
 <h3> 👨‍🦱: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **DESENVOLVIMENTO FULL STACK** no <a href="https://codeclub.rodolfomori.com/">CODE CLUB</a>.
+- 🎓 &nbsp; Estudando **DESENVOLVIMENTO FULL STACK** no <a href="https://devclub.rodolfomori.com/">DEC CLUB</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **HTML,CSS,JAVASCRIPT**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>

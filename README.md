@@ -44,12 +44,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
   </div>
----
-  [![filip3c0](https://github-readme-stats.vercel.app/api/top-langs/?username=filip3c0&hide=html&layout=compact=true&theme=default)](https://github.com/filip3c0/)
-  
+
+
+
 ---
 
 ### :fire: Meu Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Filip3C0&theme=dark&background=000000)](https://git.io/streak-stats)
 
+  [![filip3c0](https://github-readme-stats.vercel.app/api/top-langs/?username=filip3c0&hide=html&layout=compact=true&theme=default)](https://github.com/filip3c0/)
+  
 

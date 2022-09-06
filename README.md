@@ -45,6 +45,6 @@
 ---
 
 ### :fire: Meu Status:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=filipe3c0&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Filip3C0&theme=dark&background=000000)](https://git.io/streak-stats)
 
 

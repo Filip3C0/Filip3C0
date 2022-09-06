@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+  
 ---
 
 ### :man_technologist: Sobre mim :
@@ -26,7 +26,7 @@
 - :telescope: Estou atuando de forma autônoma em alguns trabalhos frontend para aplicações web.
 - :seedling: Explorando a Redação de Conteúdos Técnicos.
 - :zap: No meu tempo livre, resolvo problemas no DevClub e leio artigos de tecnologia.
-- :mailbox:Como me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-costa-nascimento/)
+- :mailbox:Como me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-Filipe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-costa-nascimento/)
   
   
 ---

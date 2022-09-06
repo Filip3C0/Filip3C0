@@ -4,13 +4,22 @@
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/filipe-costa-nascimento/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
 ![](https://komarev.com/ghpvc/?username=filip3c0&color=006bed)
 
-<h3> 👨‍🦱: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **DESENVOLVIMENTO FULL STACK** no <a href="https://devclub.rodolfomori.com/">DEV CLUB</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **HTML,CSS,JAVASCRIPT**.
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: Sobre mim :
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 

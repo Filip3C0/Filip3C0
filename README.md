@@ -23,7 +23,7 @@
 
 ### :man_technologist: Sobre mim :
 
- Eu sou Desenvolvedor Front-End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil. 
+ Eu sou Desenvolvedor Frontend <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> do Brasil. 
   
  
 - :telescope: Estou atuando de forma autônoma em alguns trabalhos frontend para aplicações web.

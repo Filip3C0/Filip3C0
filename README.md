@@ -18,7 +18,7 @@
 
 
 ---
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Filipe">
 
 ### :man_technologist: Sobre mim :
 
@@ -28,7 +28,7 @@
 - :telescope: Estou atuando de forma autônoma em alguns trabalhos frontend para aplicações web.
 - :seedling: Explorando a Redação de Conteúdos Técnicos.
 - :zap: No meu tempo livre, resolvo problemas no DevClub e leio artigos de tecnologia.
-- :mailbox: Como me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-Filipe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-costa-nascimento/)
+
   
   
 ---
